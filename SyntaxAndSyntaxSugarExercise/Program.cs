@@ -9,6 +9,15 @@
 
             Console.WriteLine($"{answer} {response}");
 
+            /*
+            Corrections after reviewing answer
+
+            var answer = 4;
+            var response = (answer < 9) ? $"{answer} is less than nine" : $"{answer} is greater than nine";
+            Console.WriteLine(response);
+            */
+
+
         }
     }
 }
